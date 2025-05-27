@@ -1,0 +1,6 @@
+site_name: Geo4Lib
+theme:
+  name: material
+  palette:
+    - primary: green
+    - accent: deep purple
