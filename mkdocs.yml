@@ -55,10 +55,3 @@ plugins:
       archive_date_format: yyyy
       post_excerpt_separator: <!-- more -->
 
-nav:
-  - index.md
-  - community.md
-  - groups.md
-  - projects.md
-  - Blog:
-    - blog/index.md
