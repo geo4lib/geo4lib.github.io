@@ -6,6 +6,8 @@
 	  
 	GeoBlacklight is the main discovery interface for geospatial data. It is developed as a Ruby on Rails engine and built on top of the popular open-source discovery interface Blacklight.
 
+	https://geoblacklight.org
+
 
 - ### OpenGeoMetadata
 	  
