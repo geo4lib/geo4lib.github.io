@@ -1,1 +1,1 @@
-# Workgroups and Interest Groups
+# Interest Groups

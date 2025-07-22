@@ -4,23 +4,16 @@
 
 - ### GeoBlacklight 
 	  
-	GeoBlacklight is the main discovery interface for geospatial data. It is developed as a Ruby on Rails engine and built on top of the popular open-source discovery interface Blacklight.
+	GeoBlacklight is an open-source software application for discovering geospatial content, including GIS datasets, web services, and digitized paper maps.
 
 	https://geoblacklight.org
 
 
 - ### OpenGeoMetadata
 	  
-	The OpenGeoMetadata schema is designed for GIS resource discovery and focuses mainly on discovery use cases. Text search, faceted search and refinement, and spatial search and relevancy are among the primary features that the schema enables.
+	OpenGeoMetadata is a discovery metadata schema for geospatial resources and an open platform for sharing metadata files.
 	  
 	https://opengeometadata.org
-
-
-- ### AllMaps
-	  
-    Curating, georeferencing and exploring for IIIF maps
-	  
-	https://allmaps.org
 
 
 - ### OpenIndexMaps
