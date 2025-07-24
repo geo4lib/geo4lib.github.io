@@ -19,6 +19,8 @@ features:
   - tags: {}
     index_page: tags.md
 
+
+
   
 markdown_extensions:
   - attr_list
@@ -46,6 +48,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
+  - search
   - blog:
       categories: true
       archive: true

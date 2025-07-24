@@ -1,6 +1,7 @@
 # Projects 
 
-Geo4Lib supports a growing set of community-led projects that advance geospatial access in libraries. These projects span open-source software, metadata standards, documentation, and discovery tools.
+Geo4Lib serves as a hub for multiple community-led open-source projects for managing geospatial resources. These efforts span open-source software, metadata standards, documentation, and discovery tools. Each project sets its own goals and timeline, while staying connected through shared infrastructure, community meetings, and annual events. This model is intended to encourage open participation, collective ownership, and space for new ideas to emerge.
+
 
 
 <div class="grid cards" markdown>
