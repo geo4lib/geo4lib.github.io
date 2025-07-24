@@ -1,5 +1,8 @@
 # Projects 
 
+Geo4Lib supports a growing set of community-led projects that advance geospatial access in libraries. These projects span open-source software, metadata standards, documentation, and discovery tools.
+
+
 <div class="grid cards" markdown>
 
 - ### GeoBlacklight 
