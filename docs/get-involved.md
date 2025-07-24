@@ -1,8 +1,6 @@
 # Get Involved
 
-Geo4Lib is open to anyone interested in building, improving, or sustaining geospatial infrastructure in libraries.
-
-Here are a few ways to connect and contribute:
+Geo4Lib is open to anyone interested in geospatial resources and services in libraries. Here are a few ways to connect and contribute:
 
 ## Join Community Meetings & Events
 

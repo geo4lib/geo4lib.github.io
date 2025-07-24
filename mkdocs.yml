@@ -1,4 +1,5 @@
 site_name: Geo4Lib
+site_url: https://geo4lib.org
 
 theme:
   name: material
@@ -14,6 +15,7 @@ features:
   - navigation.tabs
   - navigation.tabs.sticky
   - navigation.sections
+  - navigation.instant
   - toc.follow
   - toc.integrate
   - tags: {}
