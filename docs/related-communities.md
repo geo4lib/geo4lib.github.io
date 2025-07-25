@@ -1,9 +1,5 @@
 # Related Communities
 
-!!! tip "Know of another community we should include?"
-
-    If you’re part of a group that supports geospatial work in libraries, [contact us](../get-involved) and we will add it here.
-
 Geo4Lib is part of a wider network of organizations that support geospatial librarianship, spatial data literacy, and map-focused services in libraries. Here are a few peer communities you might find useful:
 
 ---

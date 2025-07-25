@@ -7,8 +7,9 @@ We have several designated roles for building and sustaining our community. If y
 
 ### Responsibilities
 
-- Set meeting agendas  
-- Chair the planning committee for Geo4LibCamp  
+- Gather and set community priorities
+- Develop schedule of meeting topics and presentations  
+- Lead the planning committee for Geo4LibCamp  
 - Coordinate community sprints  
 - Designate additional roles as needed  
 
@@ -40,7 +41,7 @@ Becky Seifried, University of Massachusetts, Amherst *(July 2025 – July 2026)*
 
 ### Responsibilities 
 
-- Keep public-facing websites up to date  
+- Keep public-facing website up to date  
 - Write periodic blog posts, including sprint recaps and event summaries  
 
 ### Held by  
