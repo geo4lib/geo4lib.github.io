@@ -33,7 +33,7 @@ We have several designated roles for building and sustaining our community. If y
 
 ### Held by
 
-Becky Seifried, University of Massachusetts, Amherst *(July 2025 – July 2026)*
+Becky Seifried, University of Massachusetts Amherst *(July 2025 – July 2026)*
 
 ---
 
@@ -61,7 +61,8 @@ Karen Majewicz, University of Minnesota *(July 2025 – June 2026)*
 
 ### Held by  
   
-Vacant (2 openings)
+- Kim Durante, Stanford University *(July 2025 – June 2026)*
+- Eliot Jordan, Princeton University *(July 2025 – June 2026)*
 
 ---
 
