@@ -50,7 +50,7 @@ Karen Majewicz, University of Minnesota *(July 2025 – June 2026)*
 
 ---
 
-### Platform Management Team  
+## Platform Management Team  
 
 ### Responsibilities
 
