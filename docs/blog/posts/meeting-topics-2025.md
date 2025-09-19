@@ -6,35 +6,35 @@ date: 2025-09-18
 
 This post displays our schedule of monthly meeting topics. Some meetings will feature presentations, others will be group discussions, and a few will bring in guest speakers.  
 
-We invite anyone interested to join us! Visit the (../../get-involved.md) page for details on how to connect.
+We invite anyone interested to join us! Visit the [Get Involved](../../get-involved.md) page for details on how to connect.
 
 <!-- more -->
 
 ## 2025
 
-- **September 10: User Stories**
+**September 10: User Stories**
 
-Who is using our search portals? How can we facilitate more usage? Alex Marden will describe the UT Libraries Map & Geospatial Collections Fellowship.
+:   Who is using our search portals? How can we facilitate more usage? Alex Marden will describe the UT Libraries Map & Geospatial Collections Fellowship.
 
-- **October 8: PMTiles**  
+**October 8: PMTiles**  
 
-PMTiles are a newer data format for tiled data. Eliot Jordan will describe the format, and we’ll share tips and best practices for creating PMTiles.
+:   [PMTiles](https://docs.protomaps.com/pmtiles/) are a newer data format for tiled data. Eliot Jordan will describe the format, and we’ll share tips and best practices for creating PMTiles.
 
-- **November 12: GIS Library Service Models**  
+**November 12: GIS Library Service Models**  
 
-How do our libraries provide GIS services? A chance to compare and contrast approaches.
+:   How do our libraries provide GIS services? A chance to compare and contrast approaches.
 
-- **December 10: Allmaps**  
+**December 10: Allmaps**  
 
-[Allmaps](https://allmaps.org) is a service for georeferencing IIIF maps. We’ll hear updates from the community and explore how we are using Allmaps (and how we could do more).
+:   [Allmaps](https://allmaps.org) is a service for georeferencing IIIF maps. We’ll hear updates from the community and explore how we are using Allmaps (and how we could do more).
 
 ---
 
 ## 2026
 
-- **January 14: OpenGeoMetadata API**  
+**January 14: OpenGeoMetadata API**  
 
-Eric Larson will share progress on building an API that provides Aardvark-compliant metadata records.
+:   Eric Larson will share progress on building an API that provides Aardvark-compliant metadata records.
 
 ---
 !!! Warning "Topics are subject to change."
