@@ -4,10 +4,9 @@ date: 2025-09-18
 
 # Geo4Lib Monthly Meeting Topics (2025–2026)
 
-With the new **Geo4Lib Community** format, we are scheduling a series of monthly topics.  
-Some meetings will feature presentations, others will be group discussions, and a few will bring in guest speakers.  
+This post displays our schedule of monthly meeting topics. Some meetings will feature presentations, others will be group discussions, and a few will bring in guest speakers.  
 
-We invite anyone interested to join us!
+We invite anyone interested to join us! Visit the (../../get-involved.md) page for details on how to connect.
 
 <!-- more -->
 
