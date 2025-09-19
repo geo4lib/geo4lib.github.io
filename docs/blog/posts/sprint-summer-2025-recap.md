@@ -47,7 +47,6 @@ We released a new script that converts GeoJSON files adhering to the OpenIndexMa
 
 [Try out the v0-v1-converter](https://github.com/OpenIndexMaps/v0-v1-converter)
 
-
 ### OpenGeoMetadata issue triage
 
 We addressed a few long-standing issues in the OpenGeoMetadata project board.
@@ -56,14 +55,13 @@ We addressed a few long-standing issues in the OpenGeoMetadata project board.
 - [Exploring how to display multiple COGs per record](https://github.com/OpenGeoMetadata/metadata-issues/issues/66)
 - Fixing broken links and the [broken search function](https://github.com/OpenGeoMetadata/opengeometadata.github.io/issues/118) on the OpenGeoMetadata website
 
-
 ### Geo4Lib website & governance
 
 For the Geo4Lib Commmunity overall, we finalized several governance decisions, launched a new community website, and created an initial list of monthly meeting topics for the upcoming year.
 
 ## Reflections
 
-The one-week format proved to be just the right length this time. It was brief enough for participants to get approval or carve out time to attend, yet long enough to make progress.  Having a wide range of tasks to choose from, including both bigger projects and smaller one-off items, gave people the flexibility to contribute in whatever way made sense for them. 
+The one-week format proved to be just the right length this time. It was brief enough for participants to get approval or carve out time to attend, yet long enough to make progress.  Having a wide range of tasks to choose from, including both bigger projects and smaller one-off items, gave people the flexibility to contribute in whatever way made sense for them.
 
 It was also the first sprint to not revolve primarily around the GeoBlacklight software. While we did ship a minor release, much of the focus was on other projects, like OpenGeoMetadata, OpenIndexMaps, and even the creation of a brand-new application: the OGM Viewer.
 
