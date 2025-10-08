@@ -18,7 +18,7 @@ We invite anyone interested to join us! Visit the [Get Involved](../../get-invol
 
 **October 8: PMTiles**  
 
-:   [PMTiles](https://docs.protomaps.com/pmtiles/) are a newer data format for tiled data. Eliot Jordan will describe the format, and we’ll share tips and best practices for creating PMTiles.
+:   [PMTiles](https://docs.protomaps.com/pmtiles/) are a newer data format for tiled data. We will gather community questions on PM Tiles to be reported on at a future meeting.
 
 **November 12: GIS Library Service Models**  
 
