@@ -26,7 +26,7 @@ We invite anyone interested to join us! Visit the [Get Involved](../../get-invol
 
 **December 10: Allmaps**  
 
-:   [Allmaps](https://allmaps.org) is a service for georeferencing IIIF maps. We’ll hear updates from the community and explore how we are using Allmaps (and how we could do more).
+:   Planning for the next Geo4Lib Community sprint
 
 ---
 
