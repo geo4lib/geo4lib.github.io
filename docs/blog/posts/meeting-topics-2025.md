@@ -24,9 +24,9 @@ We invite anyone interested to join us! Visit the [Get Involved](../../get-invol
 
 :   How do our libraries provide GIS services? A chance to compare and contrast approaches.
 
-**December 10: Allmaps**  
+**December 10: Community Sprint Planning**  
 
-:   Planning for the next Geo4Lib Community sprint
+:   Planning for the next Geo4Lib community sprint.
 
 ---
 
