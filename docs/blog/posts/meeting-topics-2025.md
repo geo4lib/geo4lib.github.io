@@ -10,6 +10,23 @@ We invite anyone interested to join us! Visit the [Get Involved](../../get-invol
 
 <!-- more -->
 
+
+
+## 2026
+
+**January 14: OpenGeoMetadata API**  
+
+:   Eric Larson will share progress on building an API that provides Aardvark-compliant metadata records.
+
+**February 11: AllMaps**  
+
+:   Members from the [AllMaps community](https://allmaps.org) will join us to share updates.
+
+
+---
+
+
+
 ## 2025
 
 **September 10: User Stories**
@@ -28,13 +45,7 @@ We invite anyone interested to join us! Visit the [Get Involved](../../get-invol
 
 :   Planning for the next Geo4Lib community sprint.
 
----
 
-## 2026
-
-**January 14: OpenGeoMetadata API**  
-
-:   Eric Larson will share progress on building an API that provides Aardvark-compliant metadata records.
 
 ---
 !!! Warning "Topics are subject to change."
