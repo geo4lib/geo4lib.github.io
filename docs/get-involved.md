@@ -10,8 +10,6 @@ We meet regularly to share updates, work on projects, and plan future activities
 
 Chat with others in the community to work through quick questions, collaboration, and informal discussion.  
 
-[Join Slack](https://join.slack.com/t/geo4lib/shared_invite/zt-3baz35i9x-gLVsSGz8MCDlkGePjk7Ejw){ .md-button}
-
 ## Follow our Google Group 
 
 Get announcements, meeting reminders, and project updates delivered to your inbox.  
