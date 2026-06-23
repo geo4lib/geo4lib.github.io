@@ -2,7 +2,7 @@
 date: 2025-09-18
 ---
 
-# Geo4Lib Monthly Meeting Topics (2025–2026)
+# Geo4Lib Monthly Meeting Topics (Sep. 2025– Apr. 2026)
 
 This post displays our schedule of monthly meeting topics. Some meetings will feature presentations, others will be group discussions, and a few will bring in guest speakers.  
 
@@ -26,10 +26,10 @@ We invite anyone interested to join us! Visit the [Get Involved](../../get-invol
 
 :   What formats are you using? Any you would like to learn more about?
 
-
 **April 8: Data Formats & Web services - Raster data***  
 
 :   What formats are you using? Any you would like to learn more about?
+
 ---
 
 
