@@ -17,7 +17,7 @@ The sprint will start with a kickoff meeting where we will review our goals and 
 
 ## How to Join
 
-Add the event from the [Geo4Lib Community Calendar](/../../events). Zoom links will be shared on Slack and added to the calendar event closer to the kickoff.
+Add the event from the [Geo4Lib Community Calendar](../../events.md). Zoom links will be shared on Slack and added to the calendar event closer to the kickoff.
 
 ## Proposed Work Tracks
 

@@ -54,4 +54,4 @@ These projects are independently developed or part of other communities, but man
 
 !!! tip "Know of another project we should include?"
 
-    If you’re part of a project that supports geospatial work in libraries, [contact us](../get-involved) and we will add it here.
+    If you’re part of a project that supports geospatial work in libraries, [contact us](get-involved.md) and we will add it here.

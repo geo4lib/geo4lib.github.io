@@ -1,6 +1,10 @@
 # mkdocs documentation
 /site
 
+# Python and uv
+.venv/
+__pycache__/
+
 # macOS Finder metadata
 .DS_Store
 */.DS_Store

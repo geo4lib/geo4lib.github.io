@@ -4,7 +4,7 @@ Geo4Lib is open to anyone interested in geospatial resources and services in lib
 
 ## Join Community Meetings & Events
 
-We meet regularly to share updates, work on projects, and plan future activities. Visit the **[Events](../events)** page for details on our monthly meetings, virtual sprints, and Geo4LibCamp.
+We meet regularly to share updates, work on projects, and plan future activities. Visit the **[Events](events.md)** page for details on our monthly meetings, virtual sprints, and Geo4LibCamp.
 
 ## Chat on Slack
 
@@ -19,5 +19,4 @@ Get announcements, meeting reminders, and project updates delivered to your inbo
 
 ## Contribute to Projects
 
-We welcome contributions of all kinds: code, documentation, metadata design, outreach, and more. Explore our **[Projects](../projects)** page to find something that matches your interests.
-
+We welcome contributions of all kinds: code, documentation, metadata design, outreach, and more. Explore our **[Projects](projects.md)** page to find something that matches your interests.

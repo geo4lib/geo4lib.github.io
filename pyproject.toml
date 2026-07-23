@@ -1,0 +1,11 @@
+[project]
+name = "geo4lib-site"
+version = "0.1.0"
+description = "Geo4Lib community website"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "mkdocs-material>=9,<10",
+]
+
+[tool.uv]
+package = false
