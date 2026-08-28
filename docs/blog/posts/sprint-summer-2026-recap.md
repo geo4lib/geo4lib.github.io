@@ -2,9 +2,9 @@
 
 From August 17-21, 2026, the Geo4Lib community held a Summer Community Sprint. Our collaborative work centered on OpenGeoMetadata, including new tools for discovering and viewing OGM records, as well as managing our shared metadata and code repositories.
 
-Beyond those projects, the sprint was deliberately unstructured, with plenty of space for participants to make progress on their own work. Daily standups gave us a chance to check in, share ideas, troubleshoot problems, and see what everyone else was working on.
+Beyond those projects, the sprint provided time for participants to make progress on their own work. Daily standups gave us a chance to check in, share ideas, troubleshoot problems, and see what everyone else was working on.
 
-Overall, the week included activities across OpenGeoMetadata, GeoBlacklight, georeferencing, metadata cleanup, and data processing. Much of this work addressed a common challenge for geospatial libraries: how to build useful, sustainable services without requiring every institution to solve the same technical problems independently.
+The week included activities across OpenGeoMetadata, GeoBlacklight, georeferencing, metadata cleanup, and data processing. Much of this work addressed a common challenge for geospatial libraries: how to build useful, sustainable services without requiring every institution to solve the same technical problems independently.
 
 ## Building Shared OpenGeoMetadata Infrastructure
 
@@ -18,7 +18,7 @@ Moving these projects into the OpenGeoMetadata organization is part of our effor
 
 ### OGM Viewer
 
-Development also continued on the [OGM Viewer](https://github.com/OpenGeoMetadata/ogm-viewer), which provides a viewer for displaying and interacting with OGM metadata and hosted resources. A few of the newer features include:
+Development also continued on the [OGM Viewer](https://github.com/OpenGeoMetadata/ogm-viewer), a tool for displaying and interacting with OGM metadata and hosted resources. A few of the newer features include:
 
 * tabs for multiple types of views
 * a globe-based map view for browsing resources
