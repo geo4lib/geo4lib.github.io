@@ -3,17 +3,23 @@ site_url: https://geo4lib.org
 
 theme:
   name: material
+  variant: modern
+  logo: images/logo-small.png
+  custom_dir: overrides
+  favicon: images/logo.png
   palette:
-    - primary: green
-    - accent: deep purple
+    scheme: default
+    primary: green
+    accent: green
   features:
     - navigation.expand
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.instant
-    - toc.integrate
+    - navigation.top
     - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -28,7 +34,7 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.magiclink
   - toc:
-      toc_depth: 1
+      toc_depth: 2
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -42,13 +48,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - blog:
-      archive: false
-      post_readtime: false
-      post_date_format: medium
-      post_url_date_format: yyyy
-      archive_date_format: yyyy
-      post_excerpt_separator: <!-- more -->
 
 nav:
   - 'Home': 'index.md'

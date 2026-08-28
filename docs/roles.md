@@ -15,8 +15,8 @@ We have several designated roles for building and sustaining our community. If y
 
 ### Held by 
 
-- Alex Marden, University of Texas, Austin *(July 2025 – June 2026)*  
-- Karen Majewicz, University of Minnesota *(July 2025 – June 2026)*  
+- Alex Marden, University of Texas, Austin *(July 2025 – June 2027)*  
+- Nick Budak, Stanford University *(July 2026 – June 2027)*  
 
 *This role is typically held by the most recent and upcoming hosts of Geo4LibCamp.*
 
@@ -33,8 +33,7 @@ We have several designated roles for building and sustaining our community. If y
 
 ### Held by
 
-Becky Seifried, University of Massachusetts Amherst *(July 2025 – July 2026)*
-
+Role open
 ---
 
 ## Public Content Manager  
@@ -46,7 +45,7 @@ Becky Seifried, University of Massachusetts Amherst *(July 2025 – July 2026)*
 
 ### Held by  
 
-Karen Majewicz, University of Minnesota *(July 2025 – June 2026)*
+Karen Majewicz, University of Minnesota *(July 2025 – June 2027)*
 
 ---
 

@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Geo4Lib community website"
 requires-python = ">=3.12,<3.13"
 dependencies = [
-  "mkdocs-material>=9,<10",
+  "zensical>=0.0.57,<0.1",
 ]
 
 [tool.uv]
