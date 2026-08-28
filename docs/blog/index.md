@@ -5,6 +5,19 @@ Zensical does not yet implement Material for MkDocs' blog plugin. Keep this
 newest-first index updated when adding a post under docs/blog/posts/.
 -->
 
+
+## [Recap of the Geo4Lib Community Sprint Summer 2026](posts/sprint-summer-2026-recap.md)
+
+*August 28, 2026*
+
+Our recent community sprint provided worktime on OpenGeoMetadata, GeoBlacklight, and a variety of local projects.
+
+[Continue reading →](posts/sprint-summer-2026-recap.md)
+
+---
+
+
+
 ## [Announcing the Geo4Lib Community Sprint Summer 2026](posts/2026-06-23_sprint-announcment.md)
 
 *June 23, 2026*
